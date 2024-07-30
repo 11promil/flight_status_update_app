@@ -1,7 +1,7 @@
 # flight_status_update_app
 flight status update app HackIndigo 2024 PROMIL
 
-Indigohack - Frontend
+# Indigohack - Frontend
 This project is the frontend of the Indigohack web application. It includes user authentication features such as sign-up, sign-in, and OTP verification through mail, display updated flight status data.
 
 Table of Contents
@@ -20,8 +20,7 @@ information, we will give you mock data.
 2. Installation
 git clone https://github.com/yourusername/indigohack-frontend.git
 cd indigohack-frontend
-yarn install
-# or
+yarn install /
 npm install
 
 3. Technologies Used
@@ -31,7 +30,7 @@ npm install
 -Vite: Next-generation frontend tooling.
 
 
-Indigohack - Backend
+# Indigohack - Backend
 This project is the backend of the Indigohack web application. It provides APIs for user authentication features such as sign-up, sign-in, and OTP verification, fetch updated data, Send notifications for flight status changes via mail.
 
 Table of Contents
@@ -47,8 +46,7 @@ Technologies Used
 
 2. Installation
 cd indigohack-backend
-yarn install
-# or
+yarn install / 
 npm install
 
 3. Technologies Used
